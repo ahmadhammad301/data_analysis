@@ -1,11 +1,10 @@
-# Udacity DAND Case Study 2 - Analyze Fuel Economy Data
 Udacity Data Analyst Case Study 2 - Analyze fuel economy data provided by the Environmental Protection Agency using NumPy, Pandas, and Matplotlib.
 
 ## Description
 Analyze fuel economy data for different car models from 2008 and 2018.
 
 ### Files
-1. ```analyze_fuel_economy_data.ipynb``` contains a Jupyter Notebook that analyze fuel economy dataset.
+1. ```fuel_economy_data_analysis.ipynb``` contains a Jupyter Notebook that analyze fuel economy dataset.
 2. ```df_08.csv``` contains raw fuel economy data for year 2008.
 2. ```df_18.csv``` contains raw fuel economy data for year 2018.
 3. ```clean_08.csv``` contains clean fuel economy dataset for year 2008.
